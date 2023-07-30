@@ -1,0 +1,28 @@
+*{
+                  background-color: rgb(32, 32, 32);
+                  color: blanchedalmond;
+                  background-attachment: fixed;
+}
+
+.yellowBalloon{
+                  width: 100px;
+                  height: 132px;
+}
+
+#gameTitle{
+                  color: red;
+                  font-family: 'Segoe UI', Tahoma , Geneva, Verdana, sans-serif
+}
+
+#gameInstructions{
+                  color: purple;
+                  font-family: serif;
+                  font-size: 30px;
+                  
+}
+
+#wrapper{
+                  text-align: center;
+                  max-width: 400px;
+                  margin: auto;
+}
